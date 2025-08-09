@@ -16,6 +16,10 @@ A professional-grade algorithmic trading platform built with Python, Flask, and 
 - **Frontend**: HTML, CSS, Javascript
 - **Visualization**: Plotly
 
+## Screen Shots
+<img width="1412" height="682" alt="Screenshot 2025-08-08 at 10 11 46 PM" src="https://github.com/user-attachments/assets/07231c71-119b-4c3b-86cc-f35890598f98" />
+
+
 
 ## Requirements
 
