@@ -206,9 +206,9 @@ response = requests.post('http://localhost:5000/backtest', json={
 response = requests.post('http://localhost:5000/start_trading')
 ```
 
-
-This software is for educational and research purposes only. Trading has a risk of loss and is not suitable for all. Past performance doesn't guarantee future results.
-
 ## 📄 License
 
 MIT License
+
+
+This software is for educational and research purposes only. Trading has a risk of loss and is not suitable for all. Past performance doesn't guarantee future results.
