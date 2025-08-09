@@ -23,7 +23,7 @@ A professional-grade algorithmic trading platform built with Python, Flask, and 
 - Alpaca Trading Account (Paper or Live)
 - Internet connection for real-time data
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -51,8 +51,22 @@ A professional-grade algorithmic trading platform built with Python, Flask, and 
      "ALPACA_BASE_URL": "https://paper-api.alpaca.markets"
    }
    ```
+## File Setup
+- auth.txt                Alpaca API credentials
+- app.py                  Flask app
+- backtester.py           Backtesting logic
+- config.py               Configuration settings
+- data_fetcher.py         Data retrieval 
+- risk_manager.py         Risk management controls
+- strategy.py             Trading strategies
+- trading_engine.py       Live trading logic
+- visualizer.py           Plotly visualizations
+- templates/
+   - index.html           Web dashboard
+- requirements.txt        Dependencies
 
-## 🚀 Usage
+
+## Usage
 
 ### Starting the Application
 
